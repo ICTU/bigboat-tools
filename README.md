@@ -1,8 +1,10 @@
 # bigboat-tools
 
-Contains various tools for working with bigboat
+## Intro
 
-# delete-app-definitions
+Contains various scripts for working with bigboat
+
+## delete-app-definitions
 
 Usages:
 
