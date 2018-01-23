@@ -8,7 +8,7 @@ Contains various scripts for working with bigboat
 
 Usages:
 
-`docker run --rm ictu/bigboat-tools ./delete-app-definitions.sh $appName $bigboatUrl $apiKey $tag`
+`docker run --rm bigboat/tools ./delete-app-definitions.sh $appName $bigboatUrl $apiKey $tag`
 
 or
 
